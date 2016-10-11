@@ -1,9 +1,9 @@
 [package]
 name = "linuxver"
 version = "0.1.0"
-authors = ["pastoraleman <pastoraleman@users.noreply.github.com>"]
+authors = ["pwrdwnsys <pwrdwnsys@users.noreply.github.com>"]
 description = "Rust library to get the Linux kernel version as a parseable SemVer object"
-repository = "https://github.com/pastoraleman/linuxver"
+repository = "https://github.com/pwrdwnsys/linuxver"
 readme = "README.md"
 keywords = ["linux","kernel"]
 license = "MIT"
