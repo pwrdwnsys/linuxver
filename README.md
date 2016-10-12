@@ -3,7 +3,7 @@ Rust library to get the Linux kernel version as a parseable SemVer object.
 
 [![crates.io](http://meritbadge.herokuapp.com/linuxver)](https://crates.io/crates/linuxver)
 [![docs.rs](https://docs.rs/linuxver/badge.svg)](https://docs.rs/linuxver)
-[![Build Status](https://travis-ci.org/pastoraleman/linuxver.svg?branch=master)](https://travis-ci.org/pastoraleman/linuxver)
+[![Build Status](https://travis-ci.org/pwrdwnsys/linuxver.svg?branch=master)](https://travis-ci.org/pwrdwnsys/linuxver)
 
 linuxver is available on [crates.io](https://crates.io/crates/linuxver) and can be included in your Cargo.toml as follows:
 
