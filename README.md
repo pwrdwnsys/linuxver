@@ -1,4 +1,6 @@
 # linuxver
+2024-08-23: NOTICE - This project has been archived and no further updates will be made.
+
 Rust library to get the Linux kernel version as a parseable SemVer object.
 
 [![crates.io](http://meritbadge.herokuapp.com/linuxver)](https://crates.io/crates/linuxver)
